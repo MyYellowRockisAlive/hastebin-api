@@ -24,3 +24,11 @@ request.addEventListener(...);
 request.open("POST", "...");
 request.send(...);
 ```
+
+# Executing
+
+Assuming you have node.js installed:
+
+```cmd
+$ node test.js
+```
