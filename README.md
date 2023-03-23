@@ -1,5 +1,4 @@
 # hastebin-api
-overly simple py script converted to js
 
 this is just supposed to be a demo on post requests (pushing data to servers)
 it uses axios, but the idea is pretty much the same.
