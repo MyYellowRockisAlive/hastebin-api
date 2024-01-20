@@ -1,0 +1,12 @@
+{
+  "name": "hastebin-api",
+  "version": "1.0.0",
+  "description": "this is just supposed to be a demo on post requests (pushing data to servers)\r it uses axios, but the idea is pretty much the same.",
+  "repository": {
+	"type" : "git",
+	"url" : "https://github.com/MyYellowRockisAlive/hastebin-api"
+  },
+  "main": "script.js"
+  "author": "myra",
+  "license": "UNLICENSED"
+}
